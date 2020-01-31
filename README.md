@@ -1,5 +1,5 @@
 # blogtalk
 
-这是用于博客的评论系统。使用的Gittalk。
+这是用于博客的评论系统。使用的Gittalk评论。
 
 博客地址：[立即访问](https://blog.zhhooo.com/)
